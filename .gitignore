@@ -1,0 +1,4 @@
+
+*.xcf
+obj/gameConfig.old
+game.lxml
